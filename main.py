@@ -2,7 +2,7 @@ from flask import Flask
 from markupsafe import escape
 from SentimentAnalysis import SentimentAnalysis
 from sip import get_data
-
+from nseData import getLiveData
 
 app = Flask(__name__)
 
@@ -31,4 +31,11 @@ def get_sip_returns(amt, fund_id, months):
     return {
         "meta" : response[0],
         "current_amt" : response[1]
+    }
+
+@app.route('/getlivedata/<company_name>')
+def get_live_data(company_name):
+    data = getLiveData(escape(company_name))
+    return {
+        "data": data
     }
