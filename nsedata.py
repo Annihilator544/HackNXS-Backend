@@ -1,6 +1,7 @@
-from datetime import date
-from nsepy import get_history
-sbin = get_history(symbol='SBIN',
-                   start=date(2015,1,1),
-                   end=date(2015,1,10))
-print(sbin)
+from jugaad_data.nse import NSELive
+
+
+def getLiveData(company_name):
+    n = NSELive()
+    q = n.stock_quote(company_name)
+    return q['priceInfo']

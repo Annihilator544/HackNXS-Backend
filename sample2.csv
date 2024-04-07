@@ -1,271 +1,201 @@
 Date,Media,Title,Article,Summary,Key_words
-3 hours ago,9to5Google,Google app is once again testing a bottom search bar redesign on Android,"The first time we saw a bottom search bar for the Google app was in 2021, while we enabled a modernized version in late 2023. Google is now testing a Material 3 bottom bar redesign with an integrated search field.
+7 hours ago,Times of India,TCS tops in customer satisfaction in Nordic region; 5 domains it got highest ranking in,"Tata Consultancy Services (TCS) has been ranked the number one IT service provider for customer satisfaction in the Nordics (Sweden, Norway, Finland, Denmark) in Whitelane Research’s independent survey of the top IT spending organizations. Indian IT giant TCS received the highest ranking in this survey for the 15th year in a row.The Whitelane Research 2024 IT Sourcing Study surveyed over 450 participants from the region’s top IT spending organizations, who evaluated over 1,000 unique IT sourcing relationships.The report also found 28% of respondents said that their organization plans to outsource more over the next two years. The top reason for this was more scalability to business needs (54%) followed by access to resources and talent (50%). In the assessment of IT providers, the report found TCS’ customer satisfaction score to be 80%, 7 percent higher than the industry average.Shreerang Talekar, Head of TCS in the Nordics and Sweden, said: “We are very proud to be ranked yet again as #1 in Customer Satisfaction in Sweden and in the Nordics by Whitelane Research. This top position recognizes us as a digital transformation partner of choice, bringing innovation to our Customers in the region where we have established trustful relationships for more than 30 years now. Staying close to them and growing together is our highest priority. This is a wonderful testimony to the deep market engagement, which our talented team drives year after year.”The study also revealed that TCS received the highest ranking across five IT domains:· TCS Ranked #1: Application Services (80% vs industry average of 76%)· TCS Ranked #1: Cloud & Infrastructure services (79% vs industry average of 73%)· TCS Ranked #1: Workplace services (82% vs industry average of 72%)· TCS Ranked #1: Network & Connectivity Services (80% vs industry average of 70%)· TCS Ranked #1: Security services (83% vs industry average of 72%)· TCS Ranked #2: Digital Transformation (79% vs industry average of 73%)Taking a deeper look into organizations’ priorities for IT investments in the coming two years, the report found:· Increasing security, resilience and/or cyber defence was scored as the top client investment area over the next two years (63%).· Automating business processes (57%) and saving costs (52%) were also considered areas of priority for investment.· Boost AI/machine learning capabilities (47%) increased by 24 points from the previous year.","Tata Consultancy Services (TCS) has been ranked the number one IT service provider for customer satisfaction in the Nordics (Sweden, Norway, Finland, Denmark) in Whitelane Research’s independent survey of the top IT spending organizations.
+The top reason for this was more scalability to business needs (54%) followed by access to resources and talent (50%).
+In the assessment of IT providers, the report found TCS’ customer satisfaction score to be 80%, 7 percent higher than the industry average.Shreerang Talekar, Head of TCS in the Nordics and Sweden, said: “We are very proud to be ranked yet again as #1 in Customer Satisfaction in Sweden and in the Nordics by Whitelane Research.
+This top position recognizes us as a digital transformation partner of choice, bringing innovation to our Customers in the region where we have established trustful relationships for more than 30 years now.
+Staying close to them and growing together is our highest priority.","['customer', 'highest', 'domains', 'ranking', 'satisfaction', 'industry', 'vs', 'services', 'tcs', 'average', 'whitelane', 'report', 'sweden', 'nordic', 'tops', 'region', 'ranked']"
+2 hours ago,Punekar News,,,,[]
+4 hours ago,News18,Dr APJ Abdul Kalam Technical University Opens Applications For TCS Placements,"The B.Tech, M.Tech and MCA students from Dr APJ Abdul Kalam Technical University (AKTU), Lucknow, Uttar Pradesh will get a good chance of getting a job now. A large company in the country will soon come to AKTU for a placement drive and offer its students good packages.
 
-At least one user today has encountered this bottom bar redesign in Google Search on Android. For starters, it’s finally using Material 3 with a pill-shaped tab indicator that has rolled out on the iOS version but was seemingly abandoned on Android after a brief rollout was pulled. (That said, the Google app screenshots in the Play Store listing feature it.) That change alone plays a big role in making this first-party application a bit more consistent.
+AKTU spokesman Pawan Kumar Tripathi said that this was a golden opportunity for AKTU students to get a job at TCS. The company is coming on April 26 of this month for the placement drive for which students can apply until April 10. Students who are selected in the drive organised by the Department of Training and Internship will receive attractive packages. In such a situation, students should take the opportunity for such a large company to come here.
 
-Current vs. new (@Cookie_lolll)
+This placement drive is organised on the instructions of JP Pandey. To participate, students must register. The personal test is taken by the company. Dean of the Department of Training and Job Placement, Prof. This campus placement offer is organised under the direction of Arumina Verma. He said that students can shape their future by participating in it. Selected students receive very good facilities in the company. There will also be a lot of growth in terms of career.
 
-Above the bottom bar is the tall search field that previously only appeared at the top of the Discover feed. At the moment, that thicker variant disappears on the actual Search results page. In the redesign, it remains there for some consistency, though it does still look comically large. Overall, the combined search field and bottom bar make use of a sheet container.
+In the last 2-3 months, the students of the university have had the opportunity to work in half a dozen multinational companies from different sectors. Pawan Kumar Tripathi said that the Vice Chancellor of AKTU, Prof JP Pandey, took over the management of the Biotech Park on Friday. The Biotech Park and the Incubation Centre for Life Sciences, which are to be set up in AKTU, were also discussed. The incubation centre is set up here under the supervision of the Innovation Hub.
 
-One complaint would be that it takes up more space that could be used for results, but the “Google” logo no longer appears at the very top, with the Search filters immediately appearing instead.
+Dr APJ Abdul Kalam Technical University is one of the largest technical universities in India. Because of its size, the number of colleges affiliated with it, and geographic dispersion, it is subdivided into five zones with 150–160 colleges in each zone for ease of management and facilitating inter-zonal comparison and possible internal competition to enhance the quality of teaching-learning processes.","The B.Tech, M.Tech and MCA students from Dr APJ Abdul Kalam Technical University (AKTU), Lucknow, Uttar Pradesh will get a good chance of getting a job now.
+AKTU spokesman Pawan Kumar Tripathi said that this was a golden opportunity for AKTU students to get a job at TCS.
+The company is coming on April 26 of this month for the placement drive for which students can apply until April 10.
+Students who are selected in the drive organised by the Department of Training and Internship will receive attractive packages.
+Dr APJ Abdul Kalam Technical University is one of the largest technical universities in India.","['placements', 'abdul', 'organised', 'drive', 'university', 'kalam', 'applications', 'placement', 'opens', 'company', 'tcs', 'opportunity', 'job', 'students', 'technical', 'apj', 'dr', 'aktu']"
+7 hours ago,Analytics Insight,TCS Freshers Recruitment April 2024: Exciting Roles Await,"TCS April 2024 fresher recruitment program welcomes you to forge your path in IT
 
-Instead of Dynamic Color, the default blue tint is used. It does stand out against the Search results page.
+In the dynamic landscape of the tech industry, Tata Consultancy Services (TCS) stands out as a beacon of innovation and opportunity. As the calendar flips to 2024, TCS once again opens its doors to fresh talent, offering a plethora of exciting roles to aspiring graduates across India. With its steadfast commitment to nurturing talent from college campuses, TCS launches its fresher hiring process for the year, promising an enriching journey for those eager to embark on a career in IT.
 
-Compared to the current look, this bottom search bar redesign looks more modern, with the Google app decidedly looking a bit old as of late. Hopefully, it will see a wider rollout.
+Diverse Opportunities Across Multiple Disciplines
 
-L-R: 2021, 2023, 2024 (enabled)
+TCS’ fresher recruitment process for 2024 welcomes applicants from a broad spectrum of academic backgrounds. Whether you hold a BTech, BE, MTech, ME, MCA, MSc, or MS degree, there’s a place for you at TCS. This inclusive approach ensures that talent from various fields and expertise can find a home in one of India’s leading IT companies.
 
-More on Google Search:","The first time we saw a bottom search bar for the Google app was in 2021, while we enabled a modernized version in late 2023.
-Google is now testing a Material 3 bottom bar redesign with an integrated search field.
-At least one user today has encountered this bottom bar redesign in Google Search on Android.
-(That said, the Google app screenshots in the Play Store listing feature it.)
-Compared to the current look, this bottom search bar redesign looks more modern, with the Google app decidedly looking a bit old as of late.","['android', 'results', 'bar', 'look', 'google', 'app', 'testing', 'used', 'material', 'search', 'redesign', 'version']"
-4 hours ago,YouTube,,,,[]
-4 hours ago,Engadget,OpenAI and Google reportedly used transcriptions of YouTube videos to train their AI models,"OpenAI and Google trained their AI models on text transcribed from YouTube videos, potentially violating creators’ copyrights, according to The New York Times. The report, which describes the lengths OpenAI, Google and Meta have gone to in order to maximize the amount of data they can feed to their AIs, cites numerous people with knowledge of the companies’ practices. It comes just days after YouTube CEO Neal Mohan said in an interview with Bloomberg Originals that OpenAI’s alleged use of YouTube videos to train its new text-to-video generator, Sora, would go against the platform’s policies.
+Three Distinct Categories, Endless Possibilities
 
-According to the NYT, OpenAI used its Whisper speech recognition tool to transcribe more than one million hours of YouTube videos, which were then used to train GPT-4. The Information previously reported that OpenAI had used YouTube videos and podcasts to train the two AI systems. OpenAI president Greg Brockman was reportedly among the people on this team. Per Google’s rules, “unauthorized scraping or downloading of YouTube content” is not allowed, Matt Bryant, a spokesperson for Google, told NYT, also saying that the company was unaware of any such use by OpenAI.
+Candidates applying for TCS’ fresher hiring program can explore roles in three distinct categories: Ninja, Digital, and Prime. Each category offers unique opportunities for growth and development, catering to different skill sets and aspirations.
 
-The report, however, claims there were people at Google who knew but did not take action against OpenAI because Google was using YouTube videos to train its own AI models. Google told NYT it only does so with videos from creators who have agreed to this. Engadget has reached out to Google and OpenAI for comment.
+Ninja: The Ninja category offers an excellent entry point for budding technologists. With an annual package of Rs 3.36 lakhs, Ninja roles provide a solid foundation for individuals looking to kickstart their career in IT.
 
-The NYT report also claims Google asked a team to tweak its privacy policy in June 2023 to more broadly cover its use of publicly available content, including Google Docs and Google Sheets, to train its AI models and products. The changes, which Google says were made for clarity's sake, were published in July. Bryant told NYT that this type of data is only used with the permission of users who opt into Google’s experimental features tests, and that the company “did not start training on additional types of data based on this language change.” The change added Bard as an example of what that data might be used for.
+Digital: For those with a passion for cutting-edge technologies and digital transformation, the Digital category beckons. With an annual package of Rs 7 lakhs, Digital roles offer a platform to work on innovative projects and drive impactful change in the digital sphere.
 
-Correction, April 6, 2024, 3:45PM ET: This story originally stated that Google updated its privacy policy in June 2022. The policy update was actually made in 2023. We apologize for the error.","OpenAI and Google trained their AI models on text transcribed from YouTube videos, potentially violating creators’ copyrights, according to The New York Times.
-According to the NYT, OpenAI used its Whisper speech recognition tool to transcribe more than one million hours of YouTube videos, which were then used to train GPT-4.
-The Information previously reported that OpenAI had used YouTube videos and podcasts to train the two AI systems.
-The report, however, claims there were people at Google who knew but did not take action against OpenAI because Google was using YouTube videos to train its own AI models.
-Google told NYT it only does so with videos from creators who have agreed to this.","['youtube', 'nyt', 'models', 'ai', 'google', 'videos', 'data', 'reportedly', 'transcriptions', 'used', 'train', 'openai', 'told']"
-5 hours ago,TechRadar,"Clash of the camera phones: I compared the iPhone 15 Pro Max, Pixel 8 Pro and Galaxy S24 Ultra – here are the pictures","If you're a discerning mobile photographer in the market for a new shooter, our best camera phone roundup should be your first port of call, but, if you're interested in how the best of the best actually perform, read on. I decided to pit the latest iPhone 15 Pro Max, Google Pixel 8 Pro and Samsung Galaxy S24 Ultra against one another in an extensive shootout to see how these top-ranking photographic champs compare.
+Prime: The Prime category represents the pinnacle of TCS’ fresher hiring program, offering roles with annual packages ranging from Rs 9-11.5 lakhs. Prime roles are reserved for top-tier talent, providing challenging assignments and ample opportunities for career advancement.
 
-For those not so familiar with this trio of mobile titans, here are some of the highlights. The Pixel 8 Pro – Google’s latest and greatest – delivers the company’s best AI smarts yet, thanks to its in-house Tensor G3 chip. This helps with everything from screening calls to ensuring everyone’s smiling and looking at the camera in that photo from your auntie’s 60th birthday (a feature known as Best Take).
+A Competitive Selection Process
 
-Where photography is concerned, the 8 Pro’s hardware falls to a 50MP main sensor – boasting superior low light compared to the Pixel 7 Pro’s primary camera, a 48MP ultra-wide with a tuned macro mode and a 48MP telephoto that offers 5x optical zoom and helps facilitate the phone’s max 30x Super Res Zoom.
+Aspiring candidates should brace themselves for a rigorous and competitive selection process. TCS jobs, known for its high standards and meticulous recruitment practices, ensures that only the best and brightest make the cut. From aptitude tests to technical interviews, the selection process is designed to identify candidates with the right blend of skills, aptitude, and attitude to thrive in a fast-paced IT environment.
 
-Apple, by comparison, hasn’t yet gone hard on branding every feature under the sun with AI, but that doesn’t make the iPhone 15 Pro Max any less of a cutting-edge powerhouse. It has one of the most capable mobile chips on the market in the company’s own A17 Pro SoC, alongside the first periscopic telephoto camera ever on an iPhone, with a unique tetraprism 5x optical zoom.
+A Testament to TCS’ Commitment to Talent Development
 
-Swipe to scroll horizontally Full camera specs iPhone 15 Pro Max Pixel 8 Pro Galaxy S24 Ultra Price (at launch): $1,199 / £1,199 / AU$2,199 $999 / £999 / AU$1,699 $1,299 / £1,249 / AU$2,199 Chipset: Apple A17 Pro Google Tensor G3 Qualcomm Snapdragon 8 Gen 3 for Galaxy Main camera: 48MP, 24mm, ƒ/1.78, sensor‑shift OIS 50MP, 1.2μm pixels, ƒ/1.68, 82° FoV, 1/1.31-inch sensor size, LDAF (laser detect auto-focus), OIS 200MP, f/1.7, 24mm, 1/1.3-inch, 0.6µm pixels, multi-directional PDAF, laser AF, OIS Ultra-wide camera: 12MP, 13mm, ƒ/2.2, 120° FoV 48MP, 0.8μm pixels, ƒ/1.95, 125.5° FoV, auto-focus 12MP, f/2.2, 13mm, 120˚ FoV, 1/2.55-inch, 1.4µm pixels, dual pixel PDAF Telephoto camera: 12MP, 120mm, ƒ/2.8, 3D sensor‑shift OIS, auto-focus, 5x optical zoom via tetraprism 48MP, 0.7μm pixels, ƒ/2.8, 21.8° FoV, 5x optical zoom, Super Res Zoom up to 30x, OIS 10MP, f/2.4, 67mm, 1/3.52-inch, 1.12µm pixels, PDAF, OIS, 3x optical zoom Secondary telephoto camera: N/A N/A 50MP, f/3.4, 111mm, 1/2.52-inch, 0.7µm pixels, PDAF, OIS, 5x periscope optical zoom Front camera: 12MP, f/1.9, TrueDepth system 10.5MP, 1.22μm pixels, ƒ/2.2, 95° FoV 1/3.1-inch sensor size 12MP f/2.2, 1/3.2-inch, 1.12µm pixels, 26mm, dual pixel PDAF Key imaging technology: Sapphire crystal lens cover, Adaptive True Tone flash, Photonic Engine, Deep Fusion, Smart HDR 5, LiDAR scanner, Apple ProRAW, Dolby Vision HDR recording at up to 4K 60fps, LOG video recording, Academy Color Encoding System, Cinematic video recording Pro controls, Ultra HDR, Magic Editor, Best Take, Photo Unblur, Motion Mode, Real Tone, Night Sight, Astrophotography, Top Shot, Live HDR+, Video Boost ProVisual Engine, Reflection removal, Generative fill, Astrophotography, Pro Mode, Dual Recording, Nightography, Instant Slow-mo, Photo Assist, Super HDR, Super Steady video
+The fresher hiring process is more than just a recruitment drive for TCS. It’s a testament to the company’s unwavering commitment to nurturing talent from college campuses. Milind Lakkad, Chief Human Resource Officer at TCS, emphasizes the company’s dedication to growing talent organically and providing opportunities for young professionals to flourish.
 
-Then we have the Galaxy S24 Ultra. It looks like its predecessors but boasts the best performance of any Android phone currently on the market, thanks to a custom-tuned Snapdragon 8 Gen 3 chip, a truly stunning 6.8-inch 120Hz display, a killer quad rear camera and, for a unique touch, Samsung’s iconic S Pen stylus.
+Important Dates to Remember
 
-Galaxy AI features can be found all over the Ultra experience, translating phone calls in real-time and letting you reframe photos with generative fill. However, like the last Ultra, camera versatility remains one of its biggest strengths.
+Application Deadline: April 10, 2024
 
-In line with its rivals, there's now a 5x optical zoom to work with but through some clever sensor cropping, the Ultra actually affords you six lossless focal lengths, from 0.6 to 10x zoom, as well as still capture at up to 200MP, thanks to its main sensor (not to mention up to 8K 30fps video capture too).
+Test Date: April 26, 2024
 
-So with the specs and features detailed, let's get on with testing those cameras in the real world.
+As the deadline to apply for TCS fresher hiring program approaches, aspiring graduates across India have a unique opportunity to kickstart their careers with one of the country’s most esteemed IT companies. With diverse roles, competitive packages, and a commitment to talent development, TCS fresher hiring for April 2024 promises an exciting journey filled with endless possibilities. So, gear up, polish your skills, and seize the opportunity to be part of TCS’ legacy of innovation and excellence in the tech industry. Apply now and embark on a journey where your potential meets limitless opportunities.
 
-Note: the camera being used is noted in the bottom left corner of each camera sample.
+Join our WhatsApp and Telegram Community to Get Regular Top Tech Updates","Diverse Opportunities Across Multiple DisciplinesTCS’ fresher recruitment process for 2024 welcomes applicants from a broad spectrum of academic backgrounds.
+Three Distinct Categories, Endless PossibilitiesCandidates applying for TCS’ fresher hiring program can explore roles in three distinct categories: Ninja, Digital, and Prime.
+Prime: The Prime category represents the pinnacle of TCS’ fresher hiring program, offering roles with annual packages ranging from Rs 9-11.5 lakhs.
+A Testament to TCS’ Commitment to Talent DevelopmentThe fresher hiring process is more than just a recruitment drive for TCS.
+With diverse roles, competitive packages, and a commitment to talent development, TCS fresher hiring for April 2024 promises an exciting journey filled with endless possibilities.","['process', 'await', 'hiring', 'opportunities', 'roles', 'fresher', 'recruitment', 'talent', 'digital', 'program', 'tcs', '2024', 'exciting', 'freshers']"
+8 hours ago,PUNE PULSE,"TCS, Infosys, HCL Technologies: Insights into Q4 Results Expectations","Share This News
 
-Main sensor
+Analysts on Dalal Street have varied perspectives on the upcoming fourth-quarter results of the information technology (IT) sector. While HDFC Securities anticipates a bottoming out of growth in Q4FY24 with a gradual recovery in FY25, Nirmal Bang Securities opines that forthcoming earnings lack material upside. The industry’s major players, including Tata Consultancy Services (TCS) and Infosys, are scheduled to unveil their March quarter results on April 12 and 18, respectively.
 
-Starting with standard photos, shot using each phone's main snapper. These are the results from simply opening the camera app and hitting the shutter button – no settings tweaks and no lenses or modes changed first.
+According to HDFC Securities, growth disparities will persist within the sector, with guidance for FY25 expected to reflect improved second-half performance. The brokerage forecasts a 6.6% year-on-year (YoY) and 3.1% quarter-on-quarter (QoQ) growth in adjusted profit after tax for TCS in Q4FY24. Meanwhile, TCS may witness a 3.5% YoY and 1% QoQ increase in net sales. Similarly, Infosys is projected to experience a 0.90% YoY and 0.60% QoQ decline in adjusted profit after tax ( PAT), along with a 3.5% YoY and 1% QoQ growth in net sales.
 
-Tower Bridge & Millennium Bridge
+Despite the anticipated bottoming out of growth, HDFC Securities underscores valuation constraints, with IT sector valuations currently at 25 times, representing a 10% premium over the five-year average and a 35% premium over the ten-year average. The brokerage emphasizes the need for cautious optimism due to valuation concerns and ongoing market volatility.
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd)
+Nuvama Institutional Equities expects a modest quarter for Q4FY24, projecting revenue growth between -1.5% and 4.5%. They anticipate revenue growth to be impacted by factors such as gradual furlough reversals and reduced discretionary tech spending. However, they predict that quality Tier-2 companies will outperform larger peers, with stable deal flow translating to recovery in subsequent quarters.
 
-(Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+The focus is expected to shift towards the execution of deals won in recent quarters amid a steadily improving global macro environment. Nuvama remains optimistic about the sector’s medium to long-term growth potential, outweighing near-term challenges.
 
-We shot on a characteristically bright and cloudy day in London Town; starting with these shots of Vic against Tower Bridge (above) and later Millennium Bridge (below).
+In terms of individual companies, Nuvama projects HCL Technologies to witness modest revenue growth driven by services, offset by seasonal impacts in Products & Platforms (P&P). Conversely, Infosys may face margin pressure due to wage hikes and revenue declines. However, steady deal-wins and conservative demand environment commentary are anticipated. Nuvama remains positive on Coforge, Persistent, Infosys, TCS, HCL Tech, and LTIMindtree.
 
-The Pixel adopted perhaps the most striking results in this well-lit scene, with strong contrast and colors. It also served up the most true-to-life colors for Vic’s skin and hair. However, the rest of the scene adopted a slight magenta tinge that looked unnatural in comparison to the other two phones.
+Overall, while differing opinions exist regarding the sector’s short-term trajectory, analysts are optimistic about its long-term growth prospects, underpinned by steady deal flow and improving market conditions.
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+Angel home decor Podar Prep","The industry’s major players, including Tata Consultancy Services (TCS) and Infosys, are scheduled to unveil their March quarter results on April 12 and 18, respectively.
+According to HDFC Securities, growth disparities will persist within the sector, with guidance for FY25 expected to reflect improved second-half performance.
+The brokerage forecasts a 6.6% year-on-year (YoY) and 3.1% quarter-on-quarter (QoQ) growth in adjusted profit after tax for TCS in Q4FY24.
+They anticipate revenue growth to be impacted by factors such as gradual furlough reversals and reduced discretionary tech spending.
+Nuvama remains positive on Coforge, Persistent, Infosys, TCS, HCL Tech, and LTIMindtree.","['technologies', 'results', 'yoy', 'sector', 'expectations', 'nuvama', 'hcl', 'infosys', 'tcs', 'securities', 'q4', 'q4fy24', 'qoq', 'growth', 'insights', 'revenue']"
+9 hours ago,BOL News,Pakistan vs New Zealand T20I series to go live from today,"Pakistan vs New Zealand T20I series to go live from today
 
-The iPhone captured a nicer, brighter image – with softer contrast and a cooler overall look – and the most balanced dynamic range processing, bringing up the darkest parts of the image without making the entire scene appear flat.
+Pakistan vs New Zealand T20I series tickets will go on sale from April 6 onward.
 
-The S24 Ultra – like the Pixel – miscolored the overall scene, with a slight green tint this time, but otherwise applied good color and contrast to Vic herself. The phone’s large sensor and lens resulted in a slightly wider shot with shallower depth, applying a pleasing, natural softness to the background. The end result does, however, looked a little washed out.
+Tickets will be available at TCS express centres in major cities.
 
-So while all three have specific strengths, I’d give this one to the iPhone.
+Only physical tickets purchased from TCS will be accepted.
 
-Shoes
+Advertisement
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+The Pakistan Cricket Board (PCB) confirmed on Friday that physical tickets for the upcoming five-match T20I series between Pakistan and New Zealand will be available for purchase starting today (Saturday).
 
-Next up, Vic’s blue suede shoes, captured outside with a strip of bright, cloudy sky directly above between buildings that rose high on either side.
+These tickets can be obtained from various TCS centres located in major cities such as Karachi, Lahore, Multan, and Rawalpindi, starting from 12:00pm (PST) on Saturday.
 
-Here, the Pixel clinches it for blending the high contrast and great detail capture – also seen on the iPhone, but with more accurate colors.
+“The tickets for the five-match Pakistan vs New Zealand T20I series will be available for purchase from Saturday, 6 April 12pm onwards at various TCS express centres in Lahore, Islamabad, Rawalpindi, Gujranwala, Sialkot, Multan, Peshawar and Karachi,” the PCB said in a press release.
 
-Uplighting
+“The fans can visit any of the designated TCS express centres and buy physical tickets for the T20I series. Additionally, the pre-booked online tickets can also be picked up from the same centres.
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+“A total of 36 TCS express across the country, as mentioned in the list (attached), will be selling the tickets for this series. The fans can self-collect or buy the tickets from TCS express centres from 9am to 5pm.”
 
-Removing natural light from the scene and relying on what was predominantly this strong uplighting, like the Tower Bridge shot, the Pixel spit out the most striking and high-contrast image, with a lot of shadow detail on the brickwork.
+It’s important to note that only valid tickets purchased from TCS will be accepted, and individuals with photocopies of E-Tickets will not be permitted entry into the stadium.
 
-With Samsung’s move away from its former heavily-processed approach to photography, I think it managed the most true-to-life and visually pleasing result of the three phones here. That said, I wish it had applied the iPhone’s processing when it came to dynamic range. Apple’s phone was the only one of the three to avoid blowing out the skin on Vic's hand, even if the shot was comparatively too cool overall.
+Advertisement
 
-High contrast
+The PCB also mentioned that up to 10 tickets can be purchased on a single CNIC, making it easier for fans to come and support their team in Rawalpindi and Lahore.
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+Previously, it was reported that the announcement of the Pakistan squad for the New Zealand series might be delayed until April 8, as the selectors will convene another meeting on Sunday.
 
-One of the first sample shots taken on the day was this high-contrast scene, as I thought it would be a great way to assess how these phones handle metering and dynamic range processing. Sure enough, the results presented a lot of variation.
+The squad was initially scheduled to be announced this week, but this has now been postponed. The selectors have already returned to Lahore after discussing the probable players for the series with captain Babar Azam.
 
-The Pixel’s preference for contrast is exacerbated here, with its attempts to stop down the scene in order to capture anything beyond the arch. This left the shot underexposed, overall, while the light sources still appeared blown out. It made for the most dramatic final image but the weakest of the three.
+New Zealand T20I squad for Pakistan tour
 
-The iPhone took second place, serving up great colors and contrast, and managing to rescue some of the brightest parts of the shot in the back of the scene. Not quite as well as the S24 Ultra, though, which produced a similar result but did an amazing job more correctly exposing the entire scene. It kept all the detail beyond the arch, as well as all the lit brickwork in the foreground.
+Michael Bracewell (c), Finn Allen, Mark Chapman, Josh Clarkson, Jacob Duffy, Dean Foxcroft, Ben Lister, Cole McConchie, Adam Milne, Jimmy Neesham, Will O’Rourke, Tim Robinson, Ben Sears, Tim Seifert (WK), Ish Sodhi
 
-Zoom
+Pakistan vs New Zealand T20I series schedule
 
-Now let’s talk zoom. While all three of these phones have large main sensors and periscopic 5x telephoto cameras, they all handle zoom a little differently.
+Advertisement
 
-Image 1 of 6 (Image credit: Future | Alex Walker-Todd) 0.6x zoom (Image credit: Future | Alex Walker-Todd) 1x zoom (Image credit: Future | Alex Walker-Todd) 3x zoom (Image credit: Future | Alex Walker-Todd) 5x zoom (Image credit: Future | Alex Walker-Todd) 10x zoom (Image credit: Future | Alex Walker-Todd) 100x zoom
+14 April — New Zealand arrive in Pakistan
 
-Samsung (above), unsurprisingly, served up the greatest versatility. Its combination of a secondary dedicated 3x telephoto sensor and sensor cropping gives you lossless shots at 0.6x, 1x, 2x, 3x, 5x and 10x magnification. In addition, that insane 100x Space Zoom feature, which might seem useless on first impressions, means you’ve got more headroom at distances between that 10x and 100x that the other phones struggle to match.
+16-17 April — Training/practice
 
-Image 1 of 5 (Image credit: Future | Alex Walker-Todd) 0.5x zoom (Image credit: Future | Alex Walker-Todd) 1x zoom (Image credit: Future | Alex Walker-Todd) 2x zoom (Image credit: Future | Alex Walker-Todd) 5x zoom (Image credit: Future | Alex Walker-Todd) 25x zoom
+18 April — 1st T20I, Rawalpindi
 
-As for consistency and overall quality, I think the iPhone (above) deserves a pat on the back, as it doesn’t overextend like the Samsung. Even at its maximum zoom range, 25x lossy shots still held an impressive amount of detail and information that's wholly usable.
+20 April — 2nd T20I, Rawalpindi
 
-Image 1 of 5 (Image credit: Future | Alex Walker-Todd) 0.5x zoom (Image credit: Future | Alex Walker-Todd) 1x zoom (Image credit: Future | Alex Walker-Todd) 2x zoom (Image credit: Future | Alex Walker-Todd) 5x zoom (Image credit: Future | Alex Walker-Todd) 30x zoom
+21 April — 3rd T20I, Rawalpindi
 
-The Pixel (above) didn't disappoint in this test but it just received a participation award here. It served up consistent and usable shots but they don’t turn heads like the other two.
+25 April — 4th T20I, Lahore
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) 24mm on the 15 Pro Max (Image credit: Future | Alex Walker-Todd) 28mm on the 15 Pro Max (Image credit: Future | Alex Walker-Todd) 35mm on the 15 Pro Max
+Advertisement
 
-Also, don’t fall for Apple’s 24mm, 28mm, 35mm lens marketing (above), it’s just cropping on the main sensor, which I’d advise you do in post instead, for greater control.
+27 April — 5th T20I, Lahore
 
-Low light
+Also Read PAK vs NZ: Squad announcement for New Zealand home series delayed Pakistan T20I squad vs New Zealand announcement has been delayed. Selectors met...","Pakistan vs New Zealand T20I series to go live from todayPakistan vs New Zealand T20I series tickets will go on sale from April 6 onward.
+AdvertisementThe Pakistan Cricket Board (PCB) confirmed on Friday that physical tickets for the upcoming five-match T20I series between Pakistan and New Zealand will be available for purchase starting today (Saturday).
+“The fans can visit any of the designated TCS express centres and buy physical tickets for the T20I series.
+Previously, it was reported that the announcement of the Pakistan squad for the New Zealand series might be delayed until April 8, as the selectors will convene another meeting on Sunday.
+New Zealand T20I squad for Pakistan tourMichael Bracewell (c), Finn Allen, Mark Chapman, Josh Clarkson, Jacob Duffy, Dean Foxcroft, Ben Lister, Cole McConchie, Adam Milne, Jimmy Neesham, Will O’Rourke, Tim Robinson, Ben Sears, Tim Seifert (WK), Ish SodhiPakistan vs New Zealand T20I series scheduleAdvertisement14 April — New Zealand arrive in Pakistan16-17 April — Training/practice18 April — 1st T20I, Rawalpindi20 April — 2nd T20I, Rawalpindi21 April — 3rd T20I, Rawalpindi25 April — 4th T20I, LahoreAdvertisement27 April — 5th T20I, LahoreAlso Read PAK vs NZ: Squad announcement for New Zealand home series delayed Pakistan T20I squad vs New Zealand announcement has been delayed.","['series', 'live', 'express', 'zealand', 'vs', 'squad', 'tcs', 'today', 'centres', 't20i', 'tickets', 'pakistan']"
+1 day ago,MSN,MSN,,,['msn']
+1 day ago,Cure Parkinson's,TCS London Marathon 2025,"The unbeatable atmosphere of the London Marathon makes this race one of the best in the world.
 
-While all three phones can deliver in conventional low light shooting scenarios, like nights out and at dusk, I wanted to see what work the image processing and sensors have to do when the lights get low. As such, we shot in a windowless room with the door almost completely shut – to the point where I could only just make out the plants on the wall with the naked eye.
+Before you apply, here’s what you need to know:
 
-First, here's the scene with the lights on, to serve as a baseline for what each phone's low light and Night modes are striving for.
+Each year we receive three applications for every place we hold at this popular event and we really do read every single one!
 
-The scene before the lights were turned off (Image credit: Future | Alex Walker-Todd)
+Your application is a chance for us to get to know you and understand why you want to run for Cure Parkinson’s.
 
-Night mode off
+We give places based on the answers you give, particularly the reasons you want to run for Cure Parkinson’s and how you’ll reach the fundraising target.
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+We do not give places on a first come first served basis.
 
-Low light capture without Night mode proved (unsurprisingly) challenging for all three phones. The iPhone cranked the ISO up to retain the most sharpness and detail, at the expense of exhibiting the most sensor noise.
+Apply today for a chance to take part and we’ll be in touch with the next steps.
 
-With Google’s well-established prowess with Night Sight, the Pixel didn’t even try here; creating a sort of pink sludgy shot with such underwhelming detail and color information that it looked like it was shot using infrared.
+Already have a ballot place?
 
-The S24 Ultra made the best of a bad situation, offering sharper detail than the Pixel and less noise than the iPhone in exchange for its characteristic green tint across the scene.
+If you’re lucky enough to secure a place in the 2025 TCS London Marathon when the ballot results are released and want to raise crucial funds for Cure Parkinson’s, then let us know! There is no minimum sponsorship target and we will provide you with fantastic fundraising support.
 
-Night mode on
+When you join #TeamCure you’ll receive:
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+Help and support from our team of friendly fundraisers
 
-Flipping to Night mode, the Samsung showed the least improvement; struggling to recover much color detail or improve exposure much over the standard low light sample.
+A free Cure Parkinson’s technical running vest
 
-The iPhone boasted the fastest Night mode capture time and produced a usable shot with good detail but poor dynamic range. Not to mention it added a yellow hue to the scene.
+A fundraising pack with top notch tips and tricks
 
-The Pixel, meanwhile, moved from the back to the front of the pack, by being able to render a shot that looked like it was taken in a lit room. It’s still dim, sure, but there’s clear definition in the subject, tangible detail in the shadows and you can tell that the leaves on the plants are, in fact, green.
+Access to fundraising materials to make your fundraising a breeze
 
-Portrait mode
+Huge whoops and cheers en route!
 
-Portrait mode using the main cameras on each phone yielded some interesting results. Both Android phones struggled to segment Vic from the background cleanly, while the iPhone over-softened her slightly in both scenarios.
+Regular updates on how your support is bringing us closer to a cure
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+For more information, please contact elizabeth@cureparkinsons.org.uk or call 020 7487 3892.","The unbeatable atmosphere of the London Marathon makes this race one of the best in the world.
+Your application is a chance for us to get to know you and understand why you want to run for Cure Parkinson’s.
+We give places based on the answers you give, particularly the reasons you want to run for Cure Parkinson’s and how you’ll reach the fundraising target.
+If you’re lucky enough to secure a place in the 2025 TCS London Marathon when the ballot results are released and want to raise crucial funds for Cure Parkinson’s, then let us know!
+There is no minimum sponsorship target and we will provide you with fantastic fundraising support.","['parkinsons', 'places', 'support', 'fundraising', 'marathon', 'run', 'london', 'youll', 'place', 'tcs', '2025', 'cure']"
+1 day ago,PCB,,,,[]
+1 day ago,The Bridge - Home of Indian Sports,Shot Put Legend Valerie Adams named International Ambassador for TCS World 10K Bengaluru,"Renowned shot put athlete Valerie Adams has been appointed as the 'International Event Ambassador' for the upcoming 16th TCS World 10K Bengaluru, scheduled for April 28.
 
-In all three phones' images, the level of bokeh looked too extreme as standard, with the iPhone offering the most effective adjustment over this attribute after capture. The Pixel won the award for subject detail, while the S24 Ultra managed the most accurate colors.
+The announcement, made on Friday, solidifies Adams' esteemed stature in the world of athletics, following her illustrious career marked by numerous accolades, including two Olympic gold medals in 2008 and 2012, along with a silver and bronze in subsequent years before her retirement.
 
-Image 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+Legend incoming🛬
 
-While all three phones crop in by default, the Pixel locks you into a 1.5x zoom as standard. You can punch much further out with the Galaxy and iPhone.
 
-Selfies
 
-All these shots are taken using each phone's front camera, with a mix of Portrait mode enabled or disabled, depending on the sample.
+2-time Olympic Champion, Valerie Adams, is joining us for #TCSW10K as the International Event Ambassador! #EndendiguBengaluru pic.twitter.com/gllLIWOzek — tcsw10k (@TCSWorld10K) April 5, 2024
 
-Image 1 of 12 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)
+Expressing her anticipation for the event, Adams, a four-time consecutive world champion, conveyed her excitement about witnessing the fervor and dedication of the participants. In a press release, she remarked, ""The increasing enthusiasm for running in India is both motivating and inspiring.""
 
-The Pixel’s tendency to increase contrast and under-expose in bright conditions carried across to its front 10.5MP camera. The iPhone and Galaxy’s 12MP selfie snappers were brighter and retained more face detail in direct comparison.
 
-The S24 captured the narrowest field of view and had that characteristic green tint but offered the best overall composition – covering color, contrast and detail capture. The iPhone once again won for edge detection around challenging elements like hair and offering the most natural-looking bokeh, even if shots erred on the cooler side once more.
 
-Video
+Transitioning from her successful athletic career, the 39-year-old has embraced advocacy for women in sports, assuming the role of Chair of the World Athletes Commission. Her commitment extends to the Paralympic realm, where she collaborates with her sister, Lisa, and other athletes, offering guidance and support.
 
-Finishing with video capture, our 4K 60fps test footage revealed that, while close, the iPhone’s stabilization and autofocus tracking ruled supreme, but that color and contrast take a nosedive compared to the still shots the phone can produce.
+Vivek Singh, Joint Managing Director of Procam International, lauded Adams as a beacon of determination, perseverance, and excellence, emphasizing her significant contributions to the advancement of sports, particularly for women and para-athletes. Singh expressed eagerness for the collaboration, stating, ""We look forward to together celebrating athleticism and our community spirit at the TCS World 10K Bengaluru.""
 
-The S24 Ultra over-exposed and over-sharpened footage but did the best job at filtering out wind noise. The Pixel came out on top, even without leaning on its AI-enhanced Video Boost feature.
-
-Not only did footage more closely match still photo quality and fidelity, but provided you’re happy with the degree to which it punches in, you get a warmer and more filmic image overall, with attractive depth of field from that main 50MP sensor.
-
-It’s worth noting that if you’re looking for a new phone to slot into a content capture workflow, the iPhone arguably has the best codecs and toolset, with Samsung’s flagship offering has the highest degree of control at capture.
-
-Conclusion
-
-So with these titans thoroughly tested, we can't say there's a clear-cut champ but rather the winner depends on which photographic qualities matter most to you. Are you a fan of the Pixel’s Night mode photography, or more a lover of the iPhone’s bokeh? Perhaps the sheer breadth of features and versatility offered by the S24 Ultra gets your vote.
-
-Whichever device made the most convincing argument, just know that you're getting one of the industry's best right now.
-
-You may also like
-
-The iPhone 15 Pro Max used in this review was supplied by Vodafone UK. Click here for Vodafone's latest iPhone deals.","ShoesImage 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)Next up, Vic’s blue suede shoes, captured outside with a strip of bright, cloudy sky directly above between buildings that rose high on either side.
-Image 1 of 6 (Image credit: Future | Alex Walker-Todd) 0.6x zoom (Image credit: Future | Alex Walker-Todd) 1x zoom (Image credit: Future | Alex Walker-Todd) 3x zoom (Image credit: Future | Alex Walker-Todd) 5x zoom (Image credit: Future | Alex Walker-Todd) 10x zoom (Image credit: Future | Alex Walker-Todd) 100x zoomSamsung (above), unsurprisingly, served up the greatest versatility.
-Image 1 of 5 (Image credit: Future | Alex Walker-Todd) 0.5x zoom (Image credit: Future | Alex Walker-Todd) 1x zoom (Image credit: Future | Alex Walker-Todd) 2x zoom (Image credit: Future | Alex Walker-Todd) 5x zoom (Image credit: Future | Alex Walker-Todd) 30x zoomThe Pixel (above) didn't disappoint in this test but it just received a participation award here.
-The scene before the lights were turned off (Image credit: Future | Alex Walker-Todd)Night mode offImage 1 of 3 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)Low light capture without Night mode proved (unsurprisingly) challenging for all three phones.
-Image 1 of 12 (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd) (Image credit: Future | Alex Walker-Todd)The Pixel’s tendency to increase contrast and under-expose in bright conditions carried across to its front 10.5MP camera.","['future', 'max', 'credit', 'alex', 'pictures', 'phones', 'iphone', 'compared', 'image', 'zoom', 'pixel', 'camera', 's24', 'ultra', 'galaxy', 'pro', 'walkertodd']"
-5 hours ago,The Verge,Google’s Pixel Buds Pro are $60 off in all colors — including the newest shades,"Happy Saturday, folks! Ever since they arrived on the scene in mid-2022, we’ve considered Google’s noise-canceling Pixel Buds Pro to be the wireless earbuds for Pixel phone owners — partly because of their great feature set and partly because they addressed the connectivity issues that plagued earlier models. The best part, however, is they’re often on sale for far less than the MSRP. Right now, for instance, you can pick them up at Amazon, Walmart, and Best Buy for around $139 ($60 off), which matches their second-best price to date.
-
-In terms of features, Google’s latest Pixel Buds are designed to compete with the best from Apple, Sony, and others. Their noise cancellation can’t quite match the latest AirPods Pro or what Bose has achieved with the QuietComfort Ultra Earbuds, though it’s still very good, particularly if all you're trying to do is drown out the sound of a coffee shop or office. They also include multipoint support and, thanks to a welcome firmware update that dropped in the fall, new conversation tech that will automatically engage their transparency mode and pause whatever audio you’re listening to when you begin to speak. Couple that with a long-lasting battery capacity and a handful of Pixel-exclusive features — including native controls and head tracking spatial audio — and it’s easy to understand why they remain our No. 1 pick if you’re already tapped into the Google ecosystem.
-
-Truth be told, I’ve never been a huge fan of most key lights, many of which opt for a circular or square-ish design that’s a bit of an eyesore when placed above your monitor. Logitech’s Litra Beam takes a more subtle approach to illumination, however, relying on a low-profile form factor that should sit neatly atop your monitor or the included stand. What’s more, it’s currently available from Amazon, Best Buy, and Logitech for $89.99 ($10 off), nearly matching its all-time low.
-
-As you might imagine, Logitech’s full-spectrum LED key light is purpose-built for streaming, podcasting, or taking video calls from home. It’s sleeker than similar offerings like Razer’s Key Light Chroma and Elgato’s new Key Light MK.2, which allows it to align squarely with the top of your monitor or easily be adjusted to act as a traditional desk lamp when you’re not streaming. It sports adjustable brightness and color temperature, too, the latter of which you can tune between a relatively warm 2700K and a super cool 6500K using either the onboard hardware controls or Logitech’s G Hub desktop app. As for compatibility, it works with macOS and Windows via USB and Bluetooth, though you will need to plug the USB cable in for power regardless of which connection method you choose.
-
-Verge Deals on X / Join more than 50,000 followers and keep up with the best daily tech deals with @vergedeals Follow us!
-
-More ways to save this weekend","The best part, however, is they’re often on sale for far less than the MSRP.
-In terms of features, Google’s latest Pixel Buds are designed to compete with the best from Apple, Sony, and others.
-What’s more, it’s currently available from Amazon, Best Buy, and Logitech for $89.99 ($10 off), nearly matching its all-time low.
-As you might imagine, Logitech’s full-spectrum LED key light is purpose-built for streaming, podcasting, or taking video calls from home.
-Verge Deals on X / Join more than 50,000 followers and keep up with the best daily tech deals with @vergedeals Follow us!","['usb', 'key', 'best', 'googles', 'colors', 'newest', 'pixel', 'streaming', '60', 'buds', 'including', 'shades', 'tech', 'pro', 'logitechs', 'light', 'youre', 'monitor']"
-8 hours ago,Futurism,Google Accidentally Admits Something Very Funny About AI,"Oops!
-
-Big Shot, Big Foot
-
-Google is reportedly considering charging users a subscription to access its experimental AI-integrated search feature — a proposed measure that would mark the first time the search giant has ever charged users for access to a core feature.
-
-That Google's even weighing such a shift — first reported by The Financial Times — is striking. Google Search rakes in an incredible amount of money without subscription fees, and Google has an arguably monopolistic chokehold on the search marketplace.
-
-On the one hand, charging users to access AI search could point to the sheer amount of money and resources it takes to power AI systems in the first place. But as The Guardian's Alex Hern points out, the search giant's potential willingness to lock its AI search behind pay-to-play doors seemingly illustrates a unique, self-made problem for Google: that the AI it's so eager to integrate into its search platform stands to upend the ad model that makes the company the vast majority of its revenue.
-
-""Google search prints money. Generative AI burns money,"" writes Hern. ""What happens when an unstoppable force hits an immovable object?""
-
-Disrupt Yourself
-
-Google's current ad model is simple. Companies pay Google, and the search giant places advertisements across websites. Users see the ads both in the company's search results and when they click on one of their endless blue links. Ideally, the brand that's coughing up the ad dollars makes some sales. And Google wins no matter what.
-
-But as Hern explains, in its current state, Google's AI-integrated search feature — currently dubbed ""search generative experience,"" or SGE — pretty much annihilates this system.
-
-SGE is designed to paraphrase web results; rather than comprise a clean list of links to outside websites, the AI tool effectively swallows web results and spits them back out at the user. And though SGE does offer some links out to its sources, the AI-infused product fundamentally disincentivizes users from clicking through them. And if users don't surf those ad-laden links, where does that leave Google's baseline revenue model?
-
-Worse, an AI result is just way more expensive to serve than a traditional page, both in infrastructure and energy costs.
-
-Google isn't the only search company wrestling with the question of how to make an ad model work for AI-powered search. Perplexity, an up-and-coming AI ""answer engine,"" is toying with the idea of allowing brands to ""sponsor"" certain follow-up search queries, according to a recent report from Adweek.
-
-Google's subscription idea certainly feels ethically sounder than branding the concept of information. But it would still be a massive shift for the company, and this latest conundrum adds to the growing tension between Google's role as the world's premier search engine and its drive to compete in the heated AI race.
-
-More on Google and AI: Google Considering Making Users Pay for AI Search Results","Google Search rakes in an incredible amount of money without subscription fees, and Google has an arguably monopolistic chokehold on the search marketplace.
-On the one hand, charging users to access AI search could point to the sheer amount of money and resources it takes to power AI systems in the first place.
-""Google search prints money.
-Google's subscription idea certainly feels ethically sounder than branding the concept of information.
-More on Google and AI: Google Considering Making Users Pay for AI Search Results","['results', 'ai', 'users', 'google', 'links', 'googles', 'ad', 'subscription', 'accidentally', 'funny', 'search', 'money', 'admits']"
-8 hours ago,Tom's Guide,Android 15 is getting a huge upgrade that surpasses the iPhone,"Last year, it was rumored that Google would introduce a full desktop mode with the Pixel 8 line. Though the company enabled display output on the handsets last month, the experience is still fairly underwhelming.
-
-But that might not be the case for too much longer, according to Android Authority, which has found evidence showing that Google has been improving desktop mode in the background. This could mean that Google plans to launch it with the upcoming Android 15 update.
-
-As the piece points out, desktop mode has existed since 2019 with Android 10, but it’s severely underbaked. As it stands, it's intended for developers to test their apps in multi-display usage rather than for buyers to use their phones like a PC. It lacks many basic features you’d expect for it to be genuinely useful to the average user.
-
-Using the Android 14 QPR Beta 2.1 build, the site’s Mishaal Rahman was able to enable the desktop mode experience in its current state, and it seems to have come a long way in the last few years.
-
-As the video above demonstrates, Android desktop mode behaves a bit more like Windows, macOS, and Linux than it used to. Windows not only now has titles and icons, but they can be dragged around and resized at will. Minimizing, maximizing, and snapping to screen edges are all also now possible.
-
-It’s a big improvement, but it’s important not to oversell it as a full desktop solution. In its current state, it still lacks many things that desktop users will take for granted, like keyboard shortcuts and what Rahman calls “a robust desktop launcher.” On top of that, plenty of apps still don’t support drag and drop, which clips the mode’s wings considerably.
-
-These things can — and likely will — be fixed, but it will take time. This might be something we see debuting at Google I/O in May, alongside the Pixel 9 this fall, or even later.
-
-Sign up to get the BEST of Tom’s Guide direct to your inbox. Upgrade your life with a daily dose of the biggest tech news, lifestyle hacks and our curated analysis. Be the first to know about cutting-edge gadgets and the hottest deals. Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
-
-In the meantime, those who want a phone that offers a good experience in both mobile and desktop use should consider Samsung phones with DeX support or Motorola handsets with Ready For. Both offer an experience that’s stronger than the stock Android one, but hopefully, that won’t be the case for too much longer.","Last year, it was rumored that Google would introduce a full desktop mode with the Pixel 8 line.
-But that might not be the case for too much longer, according to Android Authority, which has found evidence showing that Google has been improving desktop mode in the background.
-This could mean that Google plans to launch it with the upcoming Android 15 update.
-As the piece points out, desktop mode has existed since 2019 with Android 10, but it’s severely underbaked.
-As the video above demonstrates, Android desktop mode behaves a bit more like Windows, macOS, and Linux than it used to.","['surpasses', 'android', 'experience', 'support', 'iphone', 'google', 'things', 'windows', 'desktop', 'state', 'rahman', 'mode', 'huge', 'getting', '15', 'upgrade']"
-8 hours ago,Bar and Bench,Google Play not itself a Payment Aggregator but RBI will take final call: Calcutta High Court,"Justice Sabyasachi Bhattacharyya gave the ex facie (on the face of it) finding while rejecting Bengali over-the-top (OTT) platform Hoichoi's plea for protection against de-listing from Google Play Store over its non-acceptance of Google Play Billing System (GPBS)
-
-However, the Court clarified that the Reserve Bank of India (RBI) shall take the final decision on Hoichoi's complaint which alleged that Google Group companies by employing the GPBS for facilitation of payment transactions on Play Store, were violating the Payment and Settlement Systems Act, 2007
-
-""The issues raised are at best arguable and are to be decided by the RBI, which is the designated regulatory and adjudicatory authority under the PSS Act which has its own ecosystem for dealing with contraventions of the said Act,"" the Court said in the order.","Justice Sabyasachi Bhattacharyya gave the ex facie (on the face of it) finding while rejecting Bengali over-the-top (OTT) platform Hoichoi's plea for protection against de-listing from Google Play Store over its non-acceptance of Google Play Billing System (GPBS)However, the Court clarified that the Reserve Bank of India (RBI) shall take the final decision on Hoichoi's complaint which alleged that Google Group companies by employing the GPBS for facilitation of payment transactions on Play Store, were violating the Payment and Settlement Systems Act, 2007""The issues raised are at best arguable and are to be decided by the RBI, which is the designated regulatory and adjudicatory authority under the PSS Act which has its own ecosystem for dealing with contraventions of the said Act,"" the Court said in the order.","['play', 'aggregator', 'google', 'high', 'court', 'act', 'store', 'hoichois', 'final', 'calcutta', 'violating', 'transactions', 'rbi', 'payment']"
-9 hours ago,The Nation Newspaper,,,,[]
-9 hours ago,Business Insider,,,,[]
+Adams' remarkable achievements extend beyond her Olympic triumphs, including four world indoor championships and three Commonwealth Games victories. She holds the distinction of being only the third woman to secure world championships at youth, junior, and senior levels, and was honored with the IAAF World Athlete of the Year title in 2014.","Renowned shot put athlete Valerie Adams has been appointed as the 'International Event Ambassador' for the upcoming 16th TCS World 10K Bengaluru, scheduled for April 28.
+Legend incoming🛬2-time Olympic Champion, Valerie Adams, is joining us for #TCSW10K as the International Event Ambassador!
+#EndendiguBengaluru pic.twitter.com/gllLIWOzek — tcsw10k (@TCSWorld10K) April 5, 2024Expressing her anticipation for the event, Adams, a four-time consecutive world champion, conveyed her excitement about witnessing the fervor and dedication of the participants.
+Singh expressed eagerness for the collaboration, stating, ""We look forward to together celebrating athleticism and our community spirit at the TCS World 10K Bengaluru.""
+Adams' remarkable achievements extend beyond her Olympic triumphs, including four world indoor championships and three Commonwealth Games victories.","['tcsw10k', 'adams', 'named', 'event', 'valerie', 'legend', 'women', 'olympic', 'singh', 'tcs', 'international', 'ambassador', 'shot', 'bengaluru', 'world']"
