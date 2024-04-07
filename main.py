@@ -57,10 +57,13 @@ def get_sip_returns(amt, fund_id, months):
 def get_live_data(company_name):
     s = Stock(company_name)
     df = s.historical(days_back=30, frequency='d')
+    print(df['Date'].iloc[-1])
     return {
         "stockName": s.name,
         "basePrice": s.price,
         "lastPrice": s.last_trade,
         "pChange": s.cp,
+        "closePrice": df['Close'].tolist(),
+        "date": df['Date'].tolist(),
         "historicalData": df.to_dict(),
     }
