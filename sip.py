@@ -1,7 +1,6 @@
 import requests
 
 
-
 def get_data(amt: int, fund_id: int = 118666, months: int = 6):
     url = "https://api.mfapi.in/mf/" + str(fund_id)
     response = requests.get(url).json()
@@ -15,6 +14,6 @@ def get_data(amt: int, fund_id: int = 118666, months: int = 6):
         print(f"Profit for {data[i]['date']} is {profit}")
         print(f"Current amount is {current_amt:.2f}")
         Bnav = float(data[i]["nav"])
-    return (response["meta"],current_amt)
+    return (response["meta"], round(current_amt,2))
 
 
